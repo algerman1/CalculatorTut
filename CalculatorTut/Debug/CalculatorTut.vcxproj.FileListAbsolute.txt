@@ -1,0 +1,3 @@
+C:\Users\SOHA.COM\source\repos\CalculatorTut\CalculatorTut\Debug\CalculatorTut.MyForm.resources
+C:\Users\SOHA.COM\source\repos\CalculatorTut\CalculatorTut\Debug\CalculatorTut.vcxproj.GenerateResource.cache
+C:\Users\SOHA.COM\source\repos\CalculatorTut\CalculatorTut\Debug\CalculatorTut.vcxproj.AssemblyReference.cache
